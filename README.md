@@ -1,2 +1,3 @@
 # programin-fundamentals
-Furst Repository
+Furst Repository.
+This is my furst change to this repository.
